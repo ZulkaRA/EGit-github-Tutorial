@@ -17,5 +17,12 @@ public class Hooks {
 	
 	public static void main(String[] args) {
 		System.out.println("New added line");
+		
+		
+		
+		
+		System.out.println("Second push");
 	}
+	
+	
 }
