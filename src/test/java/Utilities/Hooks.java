@@ -14,4 +14,8 @@ public class Hooks {
 	public void afterScenario() {
 		System.out.println("This will run after the Scenario");
 	}
+	
+	public static void main(String[] args) {
+		System.out.println("New added line");
+	}
 }
